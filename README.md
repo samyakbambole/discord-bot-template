@@ -1,4 +1,4 @@
-# discord-bot-template
+# discord-bot-template 🚀
 
 A Simple Discord Bot Template!
 
@@ -21,12 +21,12 @@ A Simple Discord Bot Template!
 * [nodemon](https://www.npmjs.com/package/nodemon)
      * nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
-## Prerequisites
+## Prerequisites 📄
 
 * [Node.js](https://nodejs.org)
 * [npm](https://npmjs.org) (Installed automatically with Node.js)
 
-## Clone Repo
+## Clone Repo ⬇
 
 #### If Using [ironer](https://npmjs.org/package/ironer)
 ```
