@@ -13,6 +13,9 @@ A Simple Discord Bot Template!
 * [consola](https://www.npmjs.com/package/consola)
      * Elegant Console Logger for Node.js and Browser
 
+* [reconlx](https://www.npmjs.com/package/reconlx)
+     * A simple api to configure and enhance the ways on coding your discord bot. Compatible with discord.js v12 but it should also work on older versions. Variety of different usages for this api.
+
 ## Includes Development Utilities 👨‍💻:
 
 * [dotenv](https://www.npmjs.com/package/dotenv)
