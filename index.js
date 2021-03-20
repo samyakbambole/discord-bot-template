@@ -1,4 +1,4 @@
-const commands = require('./commands/commands'); 
+const commandHandler = require('./handler/commandHandler'); 
 
 require('dotenv').config(); 
 
@@ -10,8 +10,7 @@ const client = new Discord.Client();
 
 client.once('ready', () => {
 	console.log(chalk.greenBright('Beep Boop! Discord Bot Ready!'));
+	commandHandler(client); 
 });
-
-client.on('message', commands); 
 
 client.login(process.env.BOT_TOKEN);
