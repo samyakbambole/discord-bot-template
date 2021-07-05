@@ -2,10 +2,14 @@
 
 // ---------------------------------------------------
 
-const Discord = require('discord.js'); 
-const consola = require('consola'); 
-const chalk = require('chalk'); 
+const Discord = require('discord.js'); // Discord
+const consola = require('consola'); // Consola - Console styling
+const chalk = require('chalk'); // Chalk - Console styling
+const axios = require('axios'); // Axios - http requests
+
 
 module.exports = async (message) => {
      
 }
+
+// ---------------------------------------------------
